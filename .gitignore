@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+data/*.db
+data/processed/*
+data/reports/*
+data/input/*
+!data/input/.gitkeep
+!data/processed/.gitkeep
+!data/reports/.gitkeep
+!data/samples/*
+.pytest_cache/
+.vscode/
+.idea/
